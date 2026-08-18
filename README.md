@@ -1,6 +1,6 @@
-# mini-supermemory
+# SuperMemoryAI
 
-A production-shaped memory service (Supermemory-style) for AI apps.
+A production-shaped memory service for AI apps.
 
 ## Run locally (zero config, fake models)
     pip install -r requirements.txt
